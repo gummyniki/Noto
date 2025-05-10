@@ -17,4 +17,6 @@ A minimal terminal-based to-do list app written in Python — built with love (a
 ## Usage
 
 ```bash
-python noto.py
+python3 noto.py
+```
+Alternatively, you can run the executable in /dist
