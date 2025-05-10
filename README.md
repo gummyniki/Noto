@@ -1,0 +1,20 @@
+# Noto 📝
+
+A minimal terminal-based to-do list app written in Python — built with love (and `curses`) on Arch Linux.
+
+![image](https://github.com/user-attachments/assets/fe5003fb-fbe7-4c44-bc9b-630979086c14)
+
+
+## Features
+
+- ✅ Mark tasks as completed
+- ⏳ Mark tasks as "in progress"
+- ❌ Unmark tasks
+- 🧹 Clear all tasks
+- 🎨 Stylish, colorful terminal UI (using `curses`)
+- 💾 Saves tasks to `tasks.txt`
+
+## Usage
+
+```bash
+python noto.py
